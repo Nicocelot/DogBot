@@ -1,0 +1,8 @@
+Token.txt
+error.txt
+request.txt
+node_modules/*
+node_modules
+hints.md
+GuildsSettings.json
+winner.json
